@@ -1,6 +1,6 @@
 {
-    "gitdoc.autoCommitDelay": 3000,
-    "gitdoc.autoPullDelay": 3000,
-    "gitdoc.autoPushDelay": 3000,
+    "gitdoc.autoCommitDelay": 0,
+    "gitdoc.autoPullDelay": 0,
+    "gitdoc.autoPushDelay": 0,
     "gitdoc.enabled": true
 }
