@@ -1,6 +1,5 @@
 {
     "gitdoc.enabled": true,
-    "gitdoc.autoCommitDelay": 0,
     "gitdoc.autoPullDelay": 0,
     "gitdoc.autoPushDelay": 0
 }
