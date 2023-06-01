@@ -1,5 +1,3 @@
 {
-    "gitdoc.enabled": true,
-    "gitdoc.autoPullDelay": 0,
-    "gitdoc.autoPushDelay": 0
+    "gitdoc.enabled": true
 }
