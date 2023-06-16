@@ -5,8 +5,15 @@ It is a website that showcases the college and its surroundings. It provides inf
 ### guide : To view this website just click on github-pages in Enviorment section OR <a href="https://x-itachi-x.github.io/Sitamarhi-Institute-Of-Technology-unofficial/">Click Here</a>
 
 
-## Home page 
-![Screenshot 2023-05-20 175500](https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/d23916ce-2054-4677-83e6-fbc324b1013d)
+## Preview 
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/0f10c615-ed23-4a24-a03d-9ed4cc57bd3a" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/4a5db219-e85b-4527-90ec-9de634ca88f0" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/73ff7022-959c-4c88-8c1a-c3d76d190adf" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/ad86e1f8-d9fe-4688-885c-747f8c25d32c" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/e19e2d2c-f553-42b6-aab9-c8573837ab57" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/aa18553b-9bb9-45ae-8e3a-22ea90d8fbb6" width="24%"/>
+<img src="https://github.com/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial/assets/104882734/0394780b-09cb-4215-a138-e12a1c51f061" width="24%"/>
+
 
 Overview of This Repo.
 <table>
