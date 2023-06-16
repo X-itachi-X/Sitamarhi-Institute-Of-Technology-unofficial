@@ -23,11 +23,11 @@ Overview of This Repo.
   <tbody>
     <tr>
       <td>HTML</td>
-      <td>73</td>
-      <td>2789</td>
-      <td>276</td>
+      <td>111</td>
+      <td>3926</td>
+      <td>424</td>
       <td>0</td>
-      <td>2513</td>
+      <td>3502</td>
     </tr>
     <tr>
       <td>CSS</td>
@@ -36,6 +36,14 @@ Overview of This Repo.
       <td>14</td>
       <td>3</td>
       <td>105</td>
+    </tr>
+    <tr>
+      <td>JSON</td>
+      <td>1</td>
+      <td>6</td>
+      <td>0</td>
+      <td>0</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>JavaScript</td>
@@ -56,21 +64,22 @@ Overview of This Repo.
     <tr>
       <td>Markdown</td>
       <td>1</td>
-      <td>11</td>
-      <td>4</td>
+      <td>79</td>
+      <td>9</td>
       <td>0</td>
-      <td>7</td>
+      <td>70</td>
     </tr>
     <tr>
       <td>Total</td>
-      <td>77</td>
-      <td>3609</td>
-      <td>416</td>
+      <td>116</td>
+      <td>4820</td>
+      <td>569</td>
       <td>3</td>
-      <td>3190</td>
+      <td>4248</td>
     </tr>
   </tbody>
 </table>
+
 
 ## Note : This is one of the many side projects of mine, so its not completed yet and it could be delayed in operation but i am doing my best.
 
