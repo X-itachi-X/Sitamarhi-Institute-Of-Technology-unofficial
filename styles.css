@@ -73,7 +73,7 @@ body{
     width: max-width;
     border: 8px ;
     border-radius: 18px;
-    border: 2px solid #f1f1f1;
+    border: 2px solid #736a5e;
     text-align: center;
     padding: 2px;
     margin: 10px;
@@ -90,7 +90,7 @@ body{
     width: max-width;
     border: 15px ;
     border-radius: 18px;
-    border: 1px solid #f1f1f1;
+    border: 1px solid #736a5e;
     text-align: center;
     padding: 11px;
     margin: 10px;
@@ -113,7 +113,7 @@ body{
   font-weight: bold;
   border: 15px ;
   border-radius: 18px;
-  border: 2px solid #f1f1f1;
+  border: 2px solid #736a5e;
   text-align: center;
   padding: 2px;
   margin: 10px;
