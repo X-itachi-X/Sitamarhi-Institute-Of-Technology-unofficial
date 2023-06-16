@@ -1,7 +1,7 @@
 # Sitamarhi-Institute-Of-Technology-unofficial
 It is a website that showcases the college and its surroundings. It provides information about the courses, faculty, facilities, events, and alumni of the institute. It also features a guide to the nearby places of interest, such as historical sites, cultural attractions, and natural wonders.
 
-[![](https://visitcount.itsvg.in/api?id=SIT-unofficial&label=Repo-Views&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)![GitHub repo size](https://img.shields.io/github/repo-size/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial?style=flat-square)![Lines of code](https://img.shields.io/tokei/lines/github/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial?style=flat-square)
+[![](https://visitcount.itsvg.in/api?id=SIT-unofficial&label=Repo-Views&color=9&icon=7&pretty=true)](https://visitcount.itsvg.in)![GitHub repo size](https://img.shields.io/github/repo-size/X-itachi-X/Sitamarhi-Institute-Of-Technology-unofficial?style=flat-square)
 ### guide : To view this website just click on github-pages in Enviorment section OR <a href="https://x-itachi-x.github.io/Sitamarhi-Institute-Of-Technology-unofficial/">Click Here</a>
 
 
