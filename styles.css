@@ -86,6 +86,7 @@ body{
     background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
     color: white;
     display: flex;
+    flex-direction: column;
     font-weight: bold;
     width: max-width;
     border: 15px ;
