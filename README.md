@@ -82,9 +82,10 @@ Overview of This Repo.
     </tr>
   </tbody>
 </table>
+</br>
 
-
-## Note : This is one of the many side projects of mine, so its not completed yet and it could be delayed in operation but i am doing my best.
+> # Note : I have halted all the development related to this project, because of the technological advancement required for this project are not meeting with the tech stacks i originally used to develop.
+> ## Therefor, i am migrating this project to another, with proper stacks.
 
 
 
